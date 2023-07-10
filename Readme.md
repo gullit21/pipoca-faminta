@@ -3,7 +3,7 @@
 
 # Tech Challenge: Fase 01
 
-Nesta primeira fase, o objetivo foi iniciar um projeto Web, com interfaces e APIs, para cadastro de Pessoas, Endereços e Eletrodomésticos. O objetivo futuro será concluir um projeto que permita que nossos clientes/usuários façam um monitoramento do consumo de energia de cada aparelho eletrônico de suas residências ou escritórios.
+Nesta primeira fase, o objetivo foi iniciar um projeto Web, com interfaces e APIs, para cadastro de Pessoas, Produtos e Pedidos. O objetivo futuro será concluir um projeto que permita que nossos clientes/usuários façam o monitoramento dos pedidos efetuados.
 
 ## 🔨 Ferramentas e tecnologias utilizadas
 
